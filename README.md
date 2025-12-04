@@ -7,8 +7,8 @@
 2. `Создал новый проект`
 3. `Запустил gitlab-runner`
 
-![Поднятие docker runner](8-03-hw\img\215611.png)
-![Результат в gitlab](8-03-hw\img\215840.png)
+![Поднятие docker runner](img\215611.png)
+![Результат в gitlab](img\215840.png)
 
 ---
 
@@ -43,8 +43,8 @@ build-job:
 
 ```
 
-![Изминение origin](8-03-hw\img\221207.png)
-![Запушенный .gitlab-ci.yml](8-03-hw\img\222950.png)
-![Отметка об успешном pipline](8-03-hw\img\230336.png)
+![Изминение origin](img\221207.png)
+![Запушенный .gitlab-ci.yml](img\222950.png)
+![Отметка об успешном pipline](img\230336.png)
 
 ---
